@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+DepthwiseSeparableConvolution/DepthwiseSeparableConvolution.py
+DepthwiseSeparableConvolution/__init__.py
+Depthwise_Separable_Convolution_Pytorch.egg-info/PKG-INFO
+Depthwise_Separable_Convolution_Pytorch.egg-info/SOURCES.txt
+Depthwise_Separable_Convolution_Pytorch.egg-info/dependency_links.txt
+Depthwise_Separable_Convolution_Pytorch.egg-info/top_level.txt

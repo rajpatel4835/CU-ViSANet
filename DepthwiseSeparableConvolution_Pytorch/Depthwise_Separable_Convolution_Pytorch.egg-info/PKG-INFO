@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: Depthwise-Separable-Convolution-Pytorch
+Version: 0.1
+Summary: Unofficial PyTorch modification of Depthwise Separable Convolution
+Home-page: https://github.com/seungjunlee96/Depthwise-Separable-Convolution_Pytorch
+Author: Seungjun Lee
+License: MIT License
+Platform: UNKNOWN
+License-File: LICENSE
+
+UNKNOWN
+
